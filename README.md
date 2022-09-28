@@ -6,4 +6,6 @@
 
 ##### I'm a junior developer full of enthusiasm for doing my best in what I'm given, and enjoying hyper-concentration, different curiosity, original thinking and learning new things.
 
+##### I'm working in SendInAir now.
+
 ## Thank you for visiting. 😊
