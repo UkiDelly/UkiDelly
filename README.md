@@ -1,6 +1,6 @@
 <div align=center >
 
-![header](https://capsule-render.vercel.app/api?type=wave&height=300&text=Hello%20World!)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%20World!&animation=twinkling&color=timeGradient)
 
  <h1> Hello, I'm Dae Hyeon Song 👋🏻👋🏻 </h1>
 
