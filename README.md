@@ -1,7 +1,8 @@
 <div align=center >
+
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%20World!&animation=twinkling&color=timeGradient)
- <h1> Hello, I'm Dae Hyeon Song 👋🏻👋🏻 </h1>
- ![catching-the-moon-in-ocean-5k-hl-5120x2880](https://github.com/UkiDelly/UkiDelly/assets/60603701/56a6a1b5-4cd2-46ce-b37a-d79dffed959b)
+
+# Hello, I'm Dae Hyeon Song 👋🏻👋🏻
  
 ## 💻 Backend Developer
 현재 JavaScript와 Express.js를 활용한 백엔드 개발자로 활동하고 있습니다. 안정적이고 확장 가능한 API 설계 및 구현에 전문성을 갖추고 있으며, Python(FastAPI)를 활용한 서버 개발 경험도 보유하고 있습니다. PostgreSQL과 MongoDB 데이터베이스 관리 능력을 통해 다양한 프로젝트에 최적화된 데이터 솔루션을 제공합니다. 또한 Flutter를 활용한 앱 개발 경험이 있어 프론트엔드와 백엔드를 아우르는 풀스택 개발 역량을 갖추고 있습니다.
